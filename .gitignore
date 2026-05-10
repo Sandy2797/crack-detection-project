@@ -1,0 +1,16 @@
+data/
+data_split/
+models/
+results/
+
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+.venv/
+venv/
